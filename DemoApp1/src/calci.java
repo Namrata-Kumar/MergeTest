@@ -12,5 +12,6 @@ class calci {
 	public static void main(String args[]) {
 		System.out.println("add "+add(10, 20));
 		System.out.println("sub "+diff(10, 20));
+
 	}
 }
